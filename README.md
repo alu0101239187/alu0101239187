@@ -1,4 +1,4 @@
-## ¡Hola! Mi nombre es Daniel :waving_hand:
+## ¡Hola! Mi nombre es Daniel :wave:
 
 Soy estudiante del Máster en Ingeniería Informática de la Universidad de La Laguna y tengo muchas ganas de aprender y adquirir nueva experiencia.
 
