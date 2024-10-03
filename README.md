@@ -1,6 +1,6 @@
 ## ¡Hola! Mi nombre es Daniel :wave:
 
-Soy estudiante del Máster en Ingeniería Informática de la Universidad de La Laguna y tengo muchas ganas de aprender y adquirir nueva experiencia.
+Soy estudiante del Máster en Ingeniería Informática de la Universidad de La Laguna con muchas ganas de aprender y adquirir nueva experiencia.
 
 ### Títulos
  * Grado en Ingeniería Informática
@@ -9,9 +9,6 @@ Soy estudiante del Máster en Ingeniería Informática de la Universidad de La L
 ### Idiomas
  * Español: Nativo
  * Inglés: Nivel B2
-
-### Cita favorita
->"Un día sin reír es un día perdido" - Charles Chaplin
 
 ### Redes Sociales
 
