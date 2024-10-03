@@ -12,7 +12,6 @@ Soy estudiante del Máster en Ingeniería Informática de la Universidad de La L
 
 ### Redes Sociales
 
-|  |  |
-| -----------------------: | :---------------------------------------------------------------------------: |
 | **Correo electrónico** :e-mail: | [<img src="img/google.png" width="32">](alu0101239187@ull.edu.es) |
+| -----------------------: | :---------------------------------------------------------------------------: |
 | **LinkedIn** :briefcase: | [<img src="img/linkedin.png" width="32">](https://www.linkedin.com/in/daniel-jorge-acosta/) |
